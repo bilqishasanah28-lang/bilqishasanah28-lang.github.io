@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.bilqishasanah28_lang.twa",
+        "sha256_cert_fingerprints": ["79:C3:15:C5:03:4B:CD:F6:72:87:3E:C6:B5:2C:A5:2A:FE:92:6C:12:28:9A:03:D4:E2:D2:89:EA:93:CA:00:CC"]
+      }
+    }]
